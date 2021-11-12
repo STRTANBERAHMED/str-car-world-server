@@ -55,7 +55,7 @@ run().catch(console.dir);
 
 
 app.get('/', (req, res) => {
-    res.send('hello bro from my help hand server');
+    res.send('hello bro from str car world server');
 });
 
 app.listen(port, () => {
